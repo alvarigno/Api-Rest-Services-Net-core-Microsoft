@@ -21,4 +21,5 @@ namespace ApiRest
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
     }
+
 }
